@@ -3,7 +3,9 @@
 To reproduce the bug: 
 
 `git clone`
+
 `yarn install`
+
 `yarn android`
 
 App throws the error: 
